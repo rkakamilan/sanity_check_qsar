@@ -1,0 +1,12 @@
+name: explainable-qsar
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - rdkit
+  - lightgbm
+  - shap
